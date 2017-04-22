@@ -1,5 +1,5 @@
 {
-	"port": 7878,
+	"port": 86.18.118.100,
 	"minPlayers": 3,
 	"maxPlayers": 12,
 	"syncInterval": 100,
